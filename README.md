@@ -1,2 +1,2 @@
-# yelp-data-analysis
-An extensive analysis of Yelp restaurant data
+# yelp-data-sentiment-analysis
+An extensive sentiment analysis of Yelp restaurant reviews along with a R shiny application
